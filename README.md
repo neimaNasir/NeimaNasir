@@ -63,12 +63,14 @@ An aspiring Junior Data Analyst and Data Engineer with a background in Computer 
 ##  Badges  
 
 ### 📊 My GitHub Stats  
-![Neima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neimaNasir&show_icons=true&theme=radical)  
+![Neima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neimaNasir&show_icons=true&theme=radical) 
+
+![Neima's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=neimaNasir&theme=radical&hide_border=true)
+
 
 ### 🌟 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neimaNasir&layout=compact&theme=radical)  
 
 ---
-
 
 Thank you for visiting my profile! 😊
