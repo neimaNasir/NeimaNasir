@@ -10,7 +10,7 @@ An aspiring Junior Data Analyst and Data Engineer with a background in Computer 
 ###  How to Reach Me  
 - 📧 Email: [neimnasr11@gmail.com](mailto:neimnasr11@gmail.com)  
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/neima-nasir-6b48a6135/)  
-- 🤝 I’m open to collaborating on exciting projects and ideas!  
+- 🤝 I’m open to collaborating on projects and ideas!  
 
 ---
 
