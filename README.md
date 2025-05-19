@@ -1,9 +1,9 @@
 
 # Hi, I'm Neima Nasir! 👋 
 
-## 🚀 Aspiring Data Analyst, ML, and Data Engineer  
+## 🚀 Data Analyst, ML, and Data Engineer  
 
-An aspiring Junior Data Analyst and Data Engineer with a background in Computer Science, passionate about leveraging cutting-edge technologies to extract actionable insights. Proficient in transforming data, merging datasets, and conducting exploratory data analysis. Skilled in cloud computing and data visualization, I excel at solving complex problems and collaborating with teams to deliver impactful solutions.
+Junior Data Analyst and Data Engineer with a background in Computer Science, passionate about leveraging cutting-edge technologies to extract actionable insights. Proficient in transforming data, merging datasets, and conducting exploratory data analysis. Skilled in cloud computing and data visualization, I excel at solving complex problems and collaborating with teams to deliver impactful solutions.
 
 ---
 
